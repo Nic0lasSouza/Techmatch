@@ -1,0 +1,39 @@
+body{
+    background: #00FFFF;
+}
+p {
+    font-size: 20px;
+}
+h1{
+    font-size: 20px;
+}
+button{
+    padding: 16px 32px;
+    font-weight: 20px;
+    margin-bottom: 40px;
+}
+.logoInicial{
+    text-align: left;
+} 
+.menu ul{
+    float: left; 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    border-radius: 5px;
+    padding: 0 5px;
+}
+.menu ul, .menu li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.menu img{
+    width: 100px;
+}
+.section-texts{
+    width: 50%;
+    max-width: 500px;
+    text-align: left;
+    display: inline-block;
+}

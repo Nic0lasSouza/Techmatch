@@ -1,0 +1,105 @@
+<body class="body-content" aria-label="O site está em tema claro" role="body">
+    <ul class="menu">
+        <li id="para-empresas">
+            <a href="vagas.html">Para Empresas</a>
+        </li>
+        <li id="para-candidato">
+            <a href="candidato.html">Para Candidato</a>
+        </li>
+    </ul>
+
+    <header aria-label="cabeçalho da página">
+        <div class="introducao">
+
+        </div>
+        <div class="header-content">
+            <h2>Dê seu match perfeito no mercado de tecnologia</h2>
+            <p class="invert-color" role="text">
+                Você que busca seu emprego dos sonhos na área
+                de tecnologia, e não sabe por onde começar.
+                Nós podemos te ajudar <a href="formulario.html">clique aqui</a>
+                para se inscrever e fazer parte desta comunidade
+            </p>
+            <img src="img\logotec - Copia.png" alt="TechMatch">
+        </div>
+
+    </header>
+            <div class="quem_somos">
+                <div class="container">
+                    <div class="row">
+                        <div class="grid-6">
+                            <div class="img_quem_somos">
+                                <!-- <img src="img\foto sbruzzi.jpg" alt="Foto de um dos integrante">
+                                <img src="img\ABS07758.jpg" alt="Foto de outro integrante"> -->
+                                <!-- <img src="img\logotec.png" alt="imagem" class="quemsomos"> -->
+                            </div>
+                        </div>
+                        <div class="box_txt_quem_somos">
+                            <h2>Quem Somos</h2>
+                            <span class="effect_title"></span>
+                                <p>
+                                    Dois jovens com o mesmo sonho de mudar o mundo e conseguir tornar sonhos em realidade.
+                                </p>
+                                <p>
+                                    Criado com o intuito de inovar o mundo da tecnologia
+                                    a techmatch iniciou sua operação em (mês que começou e ano).
+                                </p>
+                                <p>
+                                   A techmatch é uma empresa focada em trazer mais possibilidades de empregos,
+                                    na área de tecnologia para jovens de periferia.
+                                    Nossa empresa vai possibilitar que jovens entrem no emprego
+                                    certo de acordo com seu nível de conhecimento.
+                                </p>
+                                <p>
+                                    A techmatch se tornará a maior empresa de busca de empresa e se tornará
+                                    reconhecida em todo o mundo como a empresa que buscou jovens de periferia
+                                    que querem entrar no mercado tecnológico e não sabem como entrar por isso
+                                    aqui.
+                                </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="location-sede"></div>
+
+
+        <section id="solucao" class="container">
+            <div class="section-texts">
+                <h2>Nós possuímos a solução</h2>
+                <p role="text">
+                    Somos uma plataforma para que jovens cadastrem suas
+                    experiências, conhecimentos, requisitos e objetivos
+                    profissionais
+                </p>
+            </div>
+        </section>
+        <section id="section-gallery">
+            <p>com o apoio do TECNOPUC, nosso programa faz parte da geração dux
+            </p>
+            <div class="container section-text">
+                <ul class="gallery-container" role="gallery">
+                    <li class="gallery">
+                        <img src="img\Teecnopuc.png" alt="Tecnopuc">
+                    </li>
+                    <li class="gallery">
+                        <img src="img\geração dux.png" alt="geração dux">
+                    </li>
+                    <li class="gallery">
+                        <img src="img\dux_logo.png" alt="dux">
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+    <footer class="footer">
+        <div class="footer-svg">
+            <p>
+                Techmatch, 2022 - Todos os direitos reservados - Política de privacidade
+                RAZÃO SOCIAL: Cia. Techmatch | Telefones: Nicolas Souza:(51)98583-6525 Gabriel Sbruzzi:() | ENDEREÇO: Av. Ipiranga, 6681 - Partenon, Porto Alegre - RS | CEP: 90619-900
+            </p>
+        </div>
+    </footer>
+
+<script src="script.js"></script>
+</body>
+</html>
