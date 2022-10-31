@@ -9,7 +9,7 @@
 body{
     background-color: aqua;
     color: black;
-    max-width: 1800px;
+    display: block;
 
 }
 .tech{
